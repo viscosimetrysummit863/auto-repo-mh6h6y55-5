@@ -1,0 +1,6 @@
+[package]
+name = "auto-repo-mh6h6y55-5"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
